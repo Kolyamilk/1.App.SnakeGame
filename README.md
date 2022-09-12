@@ -1,1 +1,1 @@
-# snakeGame Управление стрелками
+# snakeGame
